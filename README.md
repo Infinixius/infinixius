@@ -1,7 +1,7 @@
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
-[![HTML](https://img.shields.io/static/v1?label=&message=Haxe&color=ff751a&logo=Haxe&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![HTML](https://img.shields.io/static/v1?label=&message=Haxe&color=ff751a&logo=Haxe&logoColor=FFFFFF)](https://haxe.org/)
+[![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](http://www.cplusplus.org/)
 
 ```
 "There is the good,   
