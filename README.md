@@ -1,6 +1,6 @@
-"There is the good,
-There is the bad
-And there is the infinixius"
+"There is the good,   
+There is the bad,    
+And there is the infinixius"   
 
 - [website](https://infinixius.github.io/)
 - [discord](https://discord.com/users/485443784180760578)
