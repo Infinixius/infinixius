@@ -15,3 +15,4 @@ And there is the infinixius"
 - [youtube](https://www.youtube.com/channel/UCYsFRNlEVKQaFf9mJnhdL3g)
 - [steam](https://steamcommunity.com/id/infinixius)
 - [reddit](https://www.reddit.com/user/theoneandonlyinfiiii/)
+- [itch.io](https://infinixius.itch.io/)
