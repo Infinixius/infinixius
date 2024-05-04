@@ -9,14 +9,20 @@
 [![Python](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/)
 
 ```js
-// npm install ascii-art
+// cargo add figrs
 
-import ascii from "ascii-art"
+use figrs::{Figlet, FigletOptions};
 
-ascii.font("infinixius", "doom", (err, rendered) => {
-    if (err) throw err
-    console.log(rendered)
-})
+fn main() {
+    let options = FigletOptions {
+        font: "Doom".to_string(),
+        ..FigletOptions::default()
+    };
+
+    let figlet = Figlet::text("infinixius".to_string(), options).unwrap();
+    
+    println!("{}", figlet.text);
+}
 
 //  _          __  _         _        _
 // (_)        / _|(_)       (_)      (_)
